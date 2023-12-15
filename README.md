@@ -9,3 +9,6 @@ Rust NDS file extractor
 Just a quick fun project i made
 
 License is MPL v2
+
+### Credit
+nocash (problemkaputt.de) & dsibrew.org for nds file documentation
